@@ -9,3 +9,5 @@
 - Decrypts the encrypted message instantly.
 - Key is stored securely in a local file (`encryption_key.key`).
 - User-friendly interface built with `Tkinter`.
+
+**Tech Stack:** Python, Tkinter, cryptography (Fernet)
